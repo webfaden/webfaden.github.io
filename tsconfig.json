@@ -1,0 +1,13 @@
+{
+  "extends": "./apps/portfolio-gk/tsconfig.app.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/portfolio-gk-e2e"
+    },
+    {
+      "path": "./apps/portfolio-gk"
+    }
+  ]
+}

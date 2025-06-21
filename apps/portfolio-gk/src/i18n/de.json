@@ -1,0 +1,12 @@
+{
+  "welcome": "Willkommen auf meiner Portfolio-Website!",
+  "about": "Ich bin ein Softwareentwickler mit Erfahrungen in bspw. React und TypeScript.",
+  "projects": {
+    "title": "Meine Projekte",
+    "description": "Hier sind ..."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "description": "Ich freue mich über Ihre Nachricht!"
+  }
+}
