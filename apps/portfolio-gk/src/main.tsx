@@ -5,7 +5,7 @@ import App from './app/app';
 import Profil from './pages/profile';
 import Projekte from './pages/projects';
 import Home from './pages/home';
-import './styles/index.scss';
+import './app/app.module.scss';
 import './i18n';
 
 const router = createBrowserRouter([
